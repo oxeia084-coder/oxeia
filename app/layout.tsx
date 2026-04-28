@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   // ⚠️ SUBSTITUIR pelo código fornecido pelo Meta Business Manager
   // Exemplo: { name: "facebook-domain-verification", content: "SEU_CODIGO_AQUI" }
   other: {
-    "facebook-domain-verification": "COLE_SEU_CODIGO_DE_VERIFICACAO_AQUI",
+    "facebook-domain-verification": "paegm64m2klyizvq19u5019lqdto0u",
   },
 };
 
