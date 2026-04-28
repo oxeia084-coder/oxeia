@@ -4,3 +4,13 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "all"
+
+[[headers]]
+  for = "/"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
