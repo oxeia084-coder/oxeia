@@ -9,8 +9,8 @@ export const metadata: Metadata = {
 // ⚠️ Preencha com os dados reais da empresa antes de publicar
 const COMPANY = {
   name: "OXEIA Tecnologia",
-  cnpj: "XX.XXX.XXX/0001-XX",
-  email: "contato@oxeia.com.br",
+  cnpj: "65.153.426/0001-20",
+  email: "oxeia084@gmail.com",
   updatedAt: "27 de abril de 2026",
 };
 

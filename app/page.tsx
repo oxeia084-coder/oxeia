@@ -35,11 +35,11 @@ function LinkedinIcon({ size = 18 }: { size?: number }) {
 
 // ========== CONFIGURAÇÃO — EDITE AQUI ==========
 const CONFIG = {
-  whatsapp: "5511999999999", // Substitua pelo número com DDD e código do país
+  whatsapp: "5584991840682",
   whatsappMessage: "Olá OXEIA! Gostaria de saber mais sobre suas soluções.",
-  email: "contato@oxeia.com.br",
+  email: "oxeia084@gmail.com",
   linkedin: "https://linkedin.com/company/oxeia",
-  cnpj: "XX.XXX.XXX/0001-XX",
+  cnpj: "65.153.426/0001-20",
 };
 // ===============================================
 
